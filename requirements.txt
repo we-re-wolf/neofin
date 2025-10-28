@@ -1,0 +1,18 @@
+# requirements.txt
+streamlit
+langchain-openai
+langchain-groq
+langchain-google-genai
+langchain-core
+
+langchain-community     
+langchain-text-splitters 
+faiss-cpu               
+pdfplumber              
+tavily-python           
+python-dotenv           
+langchain-tavily
+sentence-transformers
+yfinance
+pandas                 
+numpy
