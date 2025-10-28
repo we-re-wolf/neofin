@@ -81,8 +81,9 @@ AI\_UseCase/
     ├── finance\_helper.py   \# Tool for fetching live yfinance data  
     └── goal\_helper.py      \# Core logic for the Goal Planner (analysis & LLM call)
 ```
-## **🚀 How to Run**
 
+## **🚀 How to Run**
+```
 1. **Clone the Repository**  
    git clone \[https://github.com/your-username/neofin-project.git\](https://github.com/your-username/neofin-project.git)  
    cd neofin-project
@@ -103,3 +104,4 @@ AI\_UseCase/
    *(Note: OpenAI/Google keys are not required as we use a free, local embedding model).*  
 5. **Run the App\!**  
    streamlit run app.py  
+```
