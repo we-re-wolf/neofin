@@ -61,6 +61,7 @@ This is the app's most powerful feature. It generates a complete, data-driven in
 
 The project follows the modular structure specified in the assessment:
 
+```
 AI\_UseCase/  
 │  
 ├── .env                  \# Stores API keys  
@@ -79,7 +80,7 @@ AI\_UseCase/
     ├── search\_helper.py    \# Initializes the Tavily search tool  
     ├── finance\_helper.py   \# Tool for fetching live yfinance data  
     └── goal\_helper.py      \# Core logic for the Goal Planner (analysis & LLM call)
-
+```
 ## **🚀 How to Run**
 
 1. **Clone the Repository**  
